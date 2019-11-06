@@ -1,3 +1,3 @@
 # kartik23
 project
- link:https://pratigyadhakal.000webhostapp.com/hospital.html
+ link live preview at:https://pratigyadhakal.000webhostapp.com/hospital.html
